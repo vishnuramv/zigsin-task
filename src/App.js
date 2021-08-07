@@ -18,8 +18,8 @@ function App() {
         </div>
       </section>
       <section className="app__cardsCont">
-        <Cards pic={img1} />
         <Cards pic={img2} />
+        <Cards pic={img1} />
       </section>
     </div>
   );
