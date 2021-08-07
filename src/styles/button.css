@@ -1,0 +1,14 @@
+.colored {
+	background: linear-gradient(to right,#ff7a91,#ffc04b) !important;
+	border-radius: 30px;
+	color: white !important;
+	/*padding: 10px 20px;*/
+}
+
+.outlined {
+	background-color: white !important;
+	color: black !important;
+	border: 2px solid black !important;
+	border-radius: 30px;
+	
+}
